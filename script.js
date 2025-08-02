@@ -1,1 +1,6 @@
-script.js doesn't contain: ["addEventListener", "DOMContentLoaded", "function"]
+
+
+ ["addEventListener", "DOMContentLoaded", "function"]
+
+
+ ["document.getElementById", "registration-form"]
