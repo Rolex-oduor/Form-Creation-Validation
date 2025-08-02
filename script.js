@@ -4,3 +4,5 @@
 
 
  ["document.getElementById", "registration-form"]
+
+ "form-feedback"
